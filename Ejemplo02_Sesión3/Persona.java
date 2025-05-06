@@ -1,5 +1,15 @@
 package Ejemplo02_Sesión3;
 
 public class Persona {
-    //hacer este ejemplo02, hacer ejemplo03 y el reto01 y el reto02 sesion3
+    String nombre;
+    
+    public Persona(String nombre) {
+        this.nombre = nombre;
+    }
+    public void cambiarNombre(Persona persona) {
+        persona.nombre = "Nuevo nombre";
+    }
+   
+
+    //hacer este ya(ejemplo02, ejemplo03, reto01), reto02 sesion3
 }

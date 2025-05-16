@@ -11,5 +11,5 @@ public class Persona {
     }
    
 
-    //hacer este ya(ejemplo02, ejemplo03, reto01), reto02 sesion3
+   
 }

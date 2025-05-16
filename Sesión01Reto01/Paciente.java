@@ -1,4 +1,4 @@
-package Reto01;
+package Sesión01Reto01;
 
 
 public class Paciente {

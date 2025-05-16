@@ -1,4 +1,4 @@
-package Reto02;
+package Sesión01Reto02;
 
 public record Entrada_Record(String nombreEv, double precio) {
     public void mostrarInformacion(){
